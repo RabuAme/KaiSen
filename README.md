@@ -13,6 +13,7 @@ User report on Discord and BOT count it
  - pip install discord
  - pip install Flask
  - And what all show in Shell
+ - or u can install it in package
  - RUN
  - Go to UptimeRobot
  - Add new monitor
