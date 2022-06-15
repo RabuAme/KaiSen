@@ -37,5 +37,5 @@ async def on_message(message):
 if __name__ == "__main__":
     keep_alive.keep_alive()
     client.run(
-        'OTg2NTE3MzE3NzA4MDUwNDMy.GNEDQ-.gfMOu6zg0Bh1o4RZ9z6U0DQHcIqkpV0mgdw3ng'
+        'YOUR TOKEN'
     )
