@@ -6,7 +6,7 @@ User report on Discord and BOT count it
 ## HOW TO USE
  - Creat new repl
  - Upload 3 files to your Repl
- - Copy KaiSen.py to main.py
+ - Copy KaiSen.py to main.py and del KaiSen.py
  - pip what u need
  - RUN
  - Go to UptimeRobot
