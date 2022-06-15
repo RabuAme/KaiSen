@@ -20,4 +20,4 @@ User report on Discord and BOT count it
  - URL may looks like https://ReplName.UserName.repl.co
 ## AND......
  - Invite your bot to Discord
- - join it
+ - Join it
