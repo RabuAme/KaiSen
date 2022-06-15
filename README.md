@@ -6,6 +6,7 @@ User report on Discord and BOT count it
 ## HOW TO USE
  - Creat new repl
  - Upload 3 files to your Repl
+ - Edit the BOT Token in KaiSen.py
  - Copy KaiSen.py to main.py and del KaiSen.py
  - Go to Shell
  - pip install pandas
@@ -17,3 +18,6 @@ User report on Discord and BOT count it
  - Add new monitor
  - Monitor Type : Http(s)
  - URL may looks like https://ReplName.UserName.repl.co
+## AND......
+ - Invite your bot to Discord
+ - join it
