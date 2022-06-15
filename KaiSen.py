@@ -36,4 +36,4 @@ async def on_message(message):
 
 if __name__ == "__main__":
     keep_alive.keep_alive()
-    client.run('YOUR TOKEN')
+    client.run('BOT TOKEN')
