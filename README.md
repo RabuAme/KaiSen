@@ -4,7 +4,8 @@ User report on Discord and BOT count it
  - repl.it ([GO](http://repl.it/))
  - UptimeTobot([GO](https://uptimerobot.com/))
 ## HOW TO USE
- - Upload 3 files to repl.it
+ - Creat new repl
+ - Upload 3 files to your Repl
  - Copy KaiSen.py to main.py
  - pip what u need
  - RUN
