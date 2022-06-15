@@ -7,7 +7,11 @@ User report on Discord and BOT count it
  - Creat new repl
  - Upload 3 files to your Repl
  - Copy KaiSen.py to main.py and del KaiSen.py
- - pip what u need
+ - Go to Shell
+ - pip install pandas
+ - pip install discord
+ - pip install Flask
+ - And what all show in Shell
  - RUN
  - Go to UptimeRobot
  - Add new monitor
